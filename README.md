@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,50:7F00FF,100:00D9FF&height=300&section=header&text=ROHIT%20KUMAR&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20•%20SEO%20Specialist%20•%20Digital%20Growth%20Architect&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,50:7F00FF,100:00D9FF&height=300&section=header&text=ROHIT%20GUPTA&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20•%20SEO%20Specialist%20•%20Digital%20Growth%20Architect&descAlignY=55&descSize=20" />
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=E100FF&center=true&vCenter=true&random=false&width=1000&lines=💻+Building+Scalable+Web+Applications;📈+SEO+Master+(White+%26+Black+Hat);💰+Scaling+Revenue+with+Paid+Ads;⚡+WordPress+Development+Expert;🚀+3%2B+Years+Turning+Code+into+Revenue>)](https://git.io/typing-svg)
 
@@ -30,7 +30,7 @@
 
 > **"Converting code into revenue"** 💸
 
-**👨‍💻 Name:** Rohit Kumar  
+**👨‍💻 Name:** Rohit Gupta  
 **📍 Location:** India 🇮🇳  
 **💼 Role:** Full-Stack Dev + SEO Specialist  
 **⚡ Experience:** 3+ Years
@@ -277,7 +277,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Coding%20the%20engine,%20Marketing%20the%20fuel.%20Together,%20they%20create%20unstoppable%20growth.&author=Rohit%20Kumar" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Coding%20the%20engine,%20Marketing%20the%20fuel.%20Together,%20they%20create%20unstoppable%20growth.&author=Rohit%20Gupta" alt="Quote" />
 
 </div>
 
@@ -301,7 +301,7 @@ I bridge the gap between **clean code** and **high-performance marketing**. Whil
 <a href="https://www.linkedin.com/in/rohitk2004">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect&labelColor=0077B5" alt="LinkedIn" />
 </a>
-<a href="mailto:rohitkumargpta585@gmail.com">
+<a href="mailto:rohitkumargupta585@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email%20Me&labelColor=D14836" alt="Email" />
 </a>
 <a href="https://github.com/rohitk2004">
