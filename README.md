@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-```typescript
+``
 const Rohit = {
   role: "Hybrid Digital Professional",
   experience: "3+ Years",
@@ -35,7 +35,7 @@ const Rohit = {
 
   motto: "Coding the engine, Marketing the fuel 🚀",
 };
-```
+``
 
 <div align="center">
 
@@ -119,13 +119,13 @@ const Rohit = {
 </tr>
 </table>
 
----
+--
 
 <div align="center">
 
 ## 🎯 Current Focus
 
-```mermaid
+
 graph LR
     A[Code] --> B[Build]
     B --> C[Optimize]
@@ -139,7 +139,6 @@ graph LR
     style D fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
     style E fill:#FFA500,stroke:#fff,stroke-width:2px,color:#000
     style F fill:#00FF00,stroke:#fff,stroke-width:2px,color:#000
-```
 
 🔭 **Working on:** Building automated SEO tools  
 🌱 **Learning:** AI-powered marketing automation  
